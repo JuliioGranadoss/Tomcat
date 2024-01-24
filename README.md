@@ -22,5 +22,3 @@ Antes de ejecutar el script, asegúrate de configurar las siguientes variables d
 
 - `AWS_ACCESS_KEY_ID`: Tu ID de clave de acceso de AWS
 - `AWS_SECRET_ACCESS_KEY`: Tu clave de acceso secreta de AWS
-
-## Ejemplos de Uso
