@@ -7,7 +7,7 @@ useradd -m -d /opt/tomcat -U -s /bin/false tomcat
 apt update
 
 #Instalar Java
-apt install openjdk-17-jdk
+apt install openjdk-17-jdk -y
 
 #Comprobar la versión de Java
 java -version
