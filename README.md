@@ -36,3 +36,8 @@ Este script crea una nueva pila de CloudFormation en tu cuenta de AWS. Utiliza e
 Este script elimina una pila de CloudFormation existente en tu cuenta de AWS. Utiliza el AWS CLI para enviar una solicitud de eliminación de pila a CloudFormation, especificando el nombre de la pila que deseas eliminar. CloudFormation se encargará de eliminar todos los recursos asociados con la pila de manera controlada.
 
 Estos scripts te permiten automatizar la gestión de tus recursos en AWS, proporcionando una forma rápida y conveniente de crear y eliminar pilas de CloudFormation, lo que facilita el despliegue y la limpieza de tus entornos de desarrollo y producción.
+
+## Despliegue de Aplicación Java sobre Instancia EC2 con Tomcat en AWS
+
+Este repositorio ofrece scripts y plantillas para automatizar el despliegue de una aplicación Java sobre una instancia EC2 con Tomcat en AWS. Clonando el repositorio y ejecutando `stack.sh`, podrás desplegar la aplicación en tu cuenta de AWS mediante CloudFormation. Asegúrate de tener configuradas las credenciales de AWS y acceso a la consola de AWS. Los scripts `stack.sh` y `borrarPila.sh` te permiten gestionar fácilmente tus recursos en AWS.
+
